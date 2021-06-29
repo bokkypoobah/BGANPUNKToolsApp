@@ -1,6 +1,6 @@
-# MoonCat Explainer
+# Bastard GAN Punk Tools App
 
-See https://bokkypoobah.github.io/MoonCatExplainer/
+See https://bokkypoobah.github.io/BastardGANPunkToolsApp/
 
 Some data from https://github.com/bokkypoobah/MoonCatListing
 
